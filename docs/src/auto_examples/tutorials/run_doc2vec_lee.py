@@ -43,7 +43,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 # - ``[1, 2, 1, 1, 2, 1, 1, 0, 0, 0, 0]``
 # - ``[1, 1, 1, 1, 0, 1, 0, 1, 2, 1, 1]``
 #
-# Each vector has 10 elements, where each element counts the number of times a
+# Each vector has 11 elements, where each element counts the number of times a
 # particular word occurred in the document.
 # The order of elements is arbitrary.
 # In the example above, the order of the elements corresponds to the words:
